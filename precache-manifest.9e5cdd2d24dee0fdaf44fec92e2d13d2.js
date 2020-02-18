@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49cf07a24f314bce557d8187e104b03d",
+    "revision": "f38c6be3b3d5b0327a28a3ac6eb58d14",
     "url": "/custom-guitars/index.html"
   },
   {
-    "revision": "04326c9cf29eb8205a23",
+    "revision": "33d2dd910c3cc67b3f51",
     "url": "/custom-guitars/static/css/main.bc66b29f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/custom-guitars/static/js/2.4e35303c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04326c9cf29eb8205a23",
-    "url": "/custom-guitars/static/js/main.4be4d75e.chunk.js"
+    "revision": "33d2dd910c3cc67b3f51",
+    "url": "/custom-guitars/static/js/main.0fc43bea.chunk.js"
   },
   {
     "revision": "439a82166dbbf1d5f77e",
