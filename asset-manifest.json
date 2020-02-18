@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/custom-guitars/static/css/main.bc66b29f.chunk.css",
-    "main.js": "/custom-guitars/static/js/main.0fc43bea.chunk.js",
-    "main.js.map": "/custom-guitars/static/js/main.0fc43bea.chunk.js.map",
+    "main.js": "/custom-guitars/static/js/main.74cdff25.chunk.js",
+    "main.js.map": "/custom-guitars/static/js/main.74cdff25.chunk.js.map",
     "runtime-main.js": "/custom-guitars/static/js/runtime-main.11fe91fc.js",
     "runtime-main.js.map": "/custom-guitars/static/js/runtime-main.11fe91fc.js.map",
-    "static/js/2.4e35303c.chunk.js": "/custom-guitars/static/js/2.4e35303c.chunk.js",
-    "static/js/2.4e35303c.chunk.js.map": "/custom-guitars/static/js/2.4e35303c.chunk.js.map",
+    "static/js/2.453a3c77.chunk.js": "/custom-guitars/static/js/2.453a3c77.chunk.js",
+    "static/js/2.453a3c77.chunk.js.map": "/custom-guitars/static/js/2.453a3c77.chunk.js.map",
     "index.html": "/custom-guitars/index.html",
-    "precache-manifest.9e5cdd2d24dee0fdaf44fec92e2d13d2.js": "/custom-guitars/precache-manifest.9e5cdd2d24dee0fdaf44fec92e2d13d2.js",
+    "precache-manifest.75cc9720ad88b1999398b4006a460ec2.js": "/custom-guitars/precache-manifest.75cc9720ad88b1999398b4006a460ec2.js",
     "service-worker.js": "/custom-guitars/service-worker.js",
     "static/css/main.bc66b29f.chunk.css.map": "/custom-guitars/static/css/main.bc66b29f.chunk.css.map",
-    "static/js/2.4e35303c.chunk.js.LICENSE.txt": "/custom-guitars/static/js/2.4e35303c.chunk.js.LICENSE.txt",
+    "static/js/2.453a3c77.chunk.js.LICENSE.txt": "/custom-guitars/static/js/2.453a3c77.chunk.js.LICENSE.txt",
     "static/media/logoSVG.svg": "/custom-guitars/static/media/logoSVG.6fa5a9d5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.11fe91fc.js",
-    "static/js/2.4e35303c.chunk.js",
+    "static/js/2.453a3c77.chunk.js",
     "static/css/main.bc66b29f.chunk.css",
-    "static/js/main.0fc43bea.chunk.js"
+    "static/js/main.74cdff25.chunk.js"
   ]
 }
