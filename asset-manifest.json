@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/custom-guitars/static/css/main.bc66b29f.chunk.css",
-    "main.js": "/custom-guitars/static/js/main.74cdff25.chunk.js",
-    "main.js.map": "/custom-guitars/static/js/main.74cdff25.chunk.js.map",
+    "main.css": "/custom-guitars/static/css/main.67f2bdbf.chunk.css",
+    "main.js": "/custom-guitars/static/js/main.71a94ca2.chunk.js",
+    "main.js.map": "/custom-guitars/static/js/main.71a94ca2.chunk.js.map",
     "runtime-main.js": "/custom-guitars/static/js/runtime-main.11fe91fc.js",
     "runtime-main.js.map": "/custom-guitars/static/js/runtime-main.11fe91fc.js.map",
-    "static/js/2.453a3c77.chunk.js": "/custom-guitars/static/js/2.453a3c77.chunk.js",
-    "static/js/2.453a3c77.chunk.js.map": "/custom-guitars/static/js/2.453a3c77.chunk.js.map",
+    "static/js/2.73a5941b.chunk.js": "/custom-guitars/static/js/2.73a5941b.chunk.js",
+    "static/js/2.73a5941b.chunk.js.map": "/custom-guitars/static/js/2.73a5941b.chunk.js.map",
     "index.html": "/custom-guitars/index.html",
-    "precache-manifest.75cc9720ad88b1999398b4006a460ec2.js": "/custom-guitars/precache-manifest.75cc9720ad88b1999398b4006a460ec2.js",
+    "precache-manifest.0527ac13701e6676ac82ace8a27f6794.js": "/custom-guitars/precache-manifest.0527ac13701e6676ac82ace8a27f6794.js",
     "service-worker.js": "/custom-guitars/service-worker.js",
-    "static/css/main.bc66b29f.chunk.css.map": "/custom-guitars/static/css/main.bc66b29f.chunk.css.map",
-    "static/js/2.453a3c77.chunk.js.LICENSE.txt": "/custom-guitars/static/js/2.453a3c77.chunk.js.LICENSE.txt",
-    "static/media/logoSVG.svg": "/custom-guitars/static/media/logoSVG.6fa5a9d5.svg"
+    "static/css/main.67f2bdbf.chunk.css.map": "/custom-guitars/static/css/main.67f2bdbf.chunk.css.map",
+    "static/js/2.73a5941b.chunk.js.LICENSE.txt": "/custom-guitars/static/js/2.73a5941b.chunk.js.LICENSE.txt",
+    "static/media/bass.png": "/custom-guitars/static/media/bass.8adf86fc.png",
+    "static/media/case.png": "/custom-guitars/static/media/case.fe9a6376.png",
+    "static/media/classical.png": "/custom-guitars/static/media/classical.5c00d610.png",
+    "static/media/hat.png": "/custom-guitars/static/media/hat.dadff2b6.png",
+    "static/media/logoSVG.svg": "/custom-guitars/static/media/logoSVG.6fa5a9d5.svg",
+    "static/media/metal.png": "/custom-guitars/static/media/metal.dd0c5623.png",
+    "static/media/paypal.png": "/custom-guitars/static/media/paypal.752af59f.png",
+    "static/media/shirt.png": "/custom-guitars/static/media/shirt.03e6f9c3.png",
+    "static/media/strato.png": "/custom-guitars/static/media/strato.0e9a057f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.11fe91fc.js",
-    "static/js/2.453a3c77.chunk.js",
-    "static/css/main.bc66b29f.chunk.css",
-    "static/js/main.74cdff25.chunk.js"
+    "static/js/2.73a5941b.chunk.js",
+    "static/css/main.67f2bdbf.chunk.css",
+    "static/js/main.71a94ca2.chunk.js"
   ]
 }
