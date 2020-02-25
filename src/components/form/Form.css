@@ -1,0 +1,74 @@
+:root {
+    --antigua: 'Uncial Antiqua', cursive;
+    --monserrat: 'Montserrat', sans-serif;
+    --bg: #161616;
+    --light: #F5EAEA;
+    --nav-link: #C8C8C8;
+    --opaque: #808080;
+    --titles: #D2D2D2;
+    --buttons: #777777;
+}
+
+.label {
+    color: var(--opaque);
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.input {
+    max-width: 80%;
+    outline: none;
+    padding: 0.8rem;
+    background-color: transparent;
+    border: 2px solid var(--buttons);
+    color: var(--titles);
+    font-size: 1.2rem;
+}
+
+.result {
+    display: block;
+    color: var(--light);
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.buyContainer {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.9rem;
+    align-items: center;
+}
+
+.buyContainer img {
+    margin: 1.2rem auto;
+    max-width: 200px;
+    height: auto;
+    cursor: pointer
+}
+
+.buyContainer span {
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 1010px) {
+    .buyContainer {
+        max-width: 350px;
+        display: flex;
+        flex-flow: column;
+        justify-content: space-between;
+        margin-top: 2rem;
+        align-items: center;
+        height: 300px;
+    }
+    .buyContainer img {
+        margin: 1.2rem auto;
+        max-width: 250px;
+        height: auto;
+        cursor: pointer
+    }
+    .buyContainer span {
+        font-size: 2rem;
+    }
+}
