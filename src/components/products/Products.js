@@ -90,7 +90,7 @@ function Products(props) {
                             style={params.products === 'accessories' ? { display: 'hidden' } : null}
                             className={showInfo ? 'actions readMoreOut' : 'actions'}>Read More</p> : null}
 
-                    <Link to={`/form/${params.products}/${params.name}`} className="actions">Buy for only <span className='buy'>USD ${currentProduct.price}!</span></Link>
+                    <Link to={`/form/${params.products}/${params.name}`} className="actions pb-3">Buy for only <span className='buy'>USD ${currentProduct.price}!</span></Link>
 
                 </div>
                 <button onClick={moveRight} className="scrollButtons right"></button>

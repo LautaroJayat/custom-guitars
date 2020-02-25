@@ -527,7 +527,6 @@ body::before {
         transform: translateX(-1100px);
     }
     .main {
-        margin-left: -1rem;
         align-self: flex-start;
         width: 100vw;
         flex-flow: column;
@@ -547,7 +546,7 @@ body::before {
         width: 100%;
         text-align: center;
         margin-top: 0;
-        padding: 0;
+        padding: 0 0 5rem 0;
     }
     .scrollButtons {
         display: none;
@@ -560,12 +559,12 @@ body::before {
     }
     .guitar_container img {
         height: 100%;
-        width: auto;
-        max-width: auto;
+        width: unset;
+        max-width: unset;
     }
     .guitar-title {
         width: 80%;
-        margin: 0 auto 0 auto;
+        margin: 0 auto 1rem auto;
         padding-top: 0;
         align-self: flex-start;
         color: var(--titles);
@@ -588,11 +587,14 @@ body::before {
         color: var(--opaque);
     }
     .actions {
-        margin-bottom: 2rem;
+        padding: 3rem 0 0 0;
         text-decoration: none;
         color: var(--light);
         font-weight: bolder;
         cursor: pointer;
+    }
+    .pb-3 {
+        padding-bottom: 3rem
     }
     .menuButton {
         display: block;
@@ -604,8 +606,11 @@ body::before {
         font-weight: bold;
         cursor: pointer;
     }
-    .nav-link{
+    .nav-link {
         font-size: 2rem;
+    }
+    #root {
+        width: 100%;
     }
 }
 
