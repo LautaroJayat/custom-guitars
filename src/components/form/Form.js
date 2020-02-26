@@ -32,7 +32,7 @@ function Form(props) {
 
                 <div className="right">
 
-                    <h1 style={{ fontSize: '2rem' }} id="guitarHeadline" className="guitar-title">{currentProduct.name}, good choice!</h1>
+                    <h1 style={{ fontSize: '2rem' }} id="guitarHeadline" className="guitar-title">{currentProduct.name || currentProduct.captionName}, good choice!</h1>
 
                     <label className="label" for="name" >Full name:</label>
                     <input className="input" name="name" type="text" autocomplete="off"></input>
@@ -48,7 +48,7 @@ function Form(props) {
                             <span style={{ color: 'rgb(0, 255, 0)' }} className='result'>USD ${currentProduct.price}</span>
                         </div>
 
-                        <a href="https://www.linkedin.com/in/lautaro-jayat"><img  src={paypal}></img></a>
+                        <a href="https://www.linkedin.com/in/lautaro-jayat"><img src={paypal}></img></a>
                     </div>
                 </div>
 
